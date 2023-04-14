@@ -1,0 +1,3 @@
+/*
+use safe math lib for calculations
+*/
